@@ -64,9 +64,9 @@ Geeks Store is an e-commerce web application built with React and Vite. It allow
 ![Home Page](https://github.com/user-attachments/assets/3feeacb9-c8c0-4c9a-a308-b135d5e9a8f8)
 
 
-### Product Page
+### Product Page with search, sort, filter
 ![Products Page with search, sort, filter](https://github.com/user-attachments/assets/ca6cdf12-944a-4ff9-a9fe-17eabd323cb5)
-
+### Products Page with light box
 ![Products Page with light box](https://github.com/user-attachments/assets/15028973-eca3-4572-b0d8-d7137f84e729)
 
 
@@ -77,4 +77,5 @@ Geeks Store is an e-commerce web application built with React and Vite. It allow
 
 ### Cart Page
 ![Cart Page](https://github.com/user-attachments/assets/761b1fdd-eb50-447b-abc6-72667b062e01)
+### Cart Page on checkout
 ![Cart Page on checkout](https://github.com/user-attachments/assets/10d3cd1f-76ff-4beb-bfa0-9373fd17fc88)
