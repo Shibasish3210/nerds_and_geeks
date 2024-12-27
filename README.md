@@ -1,5 +1,5 @@
 # Geeks Store
-Geeks Store is an e-commerce web application built with React and Vite. It allows users to browse products, add them to the cart, and proceed to checkout. The application features a responsive design, product filtering, sorting, and a search functionality.
+Geeks Store is a modern and user-friendly e-commerce web application built with React and Vite. It offers a seamless shopping experience with features like product browsing, advanced filtering, sorting, and search functionality. Users can effortlessly add items to their cart, manage their selections, and proceed to checkout. Designed with a responsive interface, Geeks Store ensures an optimized experience across all devices, making online shopping convenient and enjoyable.
 
 ## Tech Stack
 
@@ -19,6 +19,8 @@ Geeks Store is an e-commerce web application built with React and Vite. It allow
 
 ### Home Page
 - **Hero Section:** A dynamic hero section with slides showcasing different promotions and categories.
+
+### Product Page
 - **Product Showcase:** Displays a list of products with pagination, filtering, and sorting options.
 
 ### Product Details Page
@@ -40,8 +42,8 @@ Geeks Store is an e-commerce web application built with React and Vite. It allow
 
 1. **Clone the repository**:
      ```bash
-     git clone https://github.com/your-username/geeks-store.git
-     cd geeks-store
+     git clone https://github.com/Shibasish3210/nerds_and_geeks
+     cd your-folder
      ```
 2. **Install dependencies**:
         ```bash
